@@ -136,9 +136,9 @@
                 "valid": true
             },
             {
-                "description": "latin-1 e-acute does not match (unlike e.g. Python)",
+                "description": "latin-1 e-acute matches",
                 "data": "é",
-                "valid": false
+                "valid": true
             }
         ]
     },
